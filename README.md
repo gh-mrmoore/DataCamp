@@ -1,2 +1,2 @@
-# Python
-Consolidating all my work in Python under a single repository.
+# DataCamp
+This repository will contain the work that I've completed in DataCamp.
