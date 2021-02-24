@@ -1,7 +1,7 @@
 # DataCamp
 This repository will contain the work that I've completed in DataCamp.
 
-Track: Data Analyst with SQL Server
+### Track: Data Analyst with SQL Server
 |Course | Completed |
 | ----- | ----- |
 |Introduction to SQL Server | 2020-09-02 |
@@ -18,7 +18,21 @@ Track: Data Analyst with SQL Server
 
 
 
-Track: Data Analyst with Python
-
-
-
+### Track: Data Analyst with Python
+|Course | Completed |
+| ----- | ----- |
+| Introduction to Data Science in Python | 2020-12-12 |
+| Intermediate Python | 2020-12-08 |
+| Data Manipulation with pandas | 2021-02-01 |
+| Joining Data with pandas | 2021-02-17|
+| Introduction to Data Visualization with Matplotlib | In Progress |
+| Introduction to Data Visualization with Seaborn | Pending |
+| Introduction to Importing Data in Python | Pending |
+| Intermediate Importing Data in Python | Pending |
+| Cleaning Data in Python | Pending |
+| Exploratory Data Analysis in Python | Pending |
+| Analyzing Police Activity with pandas | Pending |
+| Introduction to SQL | Pending |
+| Streamlined Data Ingestion with pandas | Pending |
+| Joining Data in SQL | Pending |
+| Introduction to Databases in Python | Pending |
