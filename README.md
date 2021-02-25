@@ -25,14 +25,14 @@ This repository will contain the work that I've completed in DataCamp.
 | Intermediate Python | 2020-12-08 |
 | Data Manipulation with pandas | 2021-02-01 |
 | Joining Data with pandas | 2021-02-17|
-| Introduction to Data Visualization with Matplotlib | In Progress |
+| Introduction to Data Visualization with Matplotlib | 2021-02-24 |
 | Introduction to Data Visualization with Seaborn | Pending |
-| Introduction to Importing Data in Python | Pending |
+| Introduction to Importing Data in Python | In Progress |
 | Intermediate Importing Data in Python | Pending |
 | Cleaning Data in Python | Pending |
 | Exploratory Data Analysis in Python | Pending |
 | Analyzing Police Activity with pandas | Pending |
-| Introduction to SQL | Pending |
+| Introduction to SQL | In Progress |
 | Streamlined Data Ingestion with pandas | Pending |
 | Joining Data in SQL | Pending |
 | Introduction to Databases in Python | Pending |
