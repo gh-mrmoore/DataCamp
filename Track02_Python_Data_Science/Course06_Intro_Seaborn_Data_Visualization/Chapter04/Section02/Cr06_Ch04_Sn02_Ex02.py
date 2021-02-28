@@ -4,8 +4,8 @@ g = sns.relplot(x="weight",
                 data=mpg,
                 kind="scatter")
 
-# Identify plot type
-type_of_g = type(g)
+# Add a title "Car Weight vs. Horsepower"
+g.fig.suptitle("Car Weight vs. Horsepower")
 
-# Print type
-print(type_of_g)
+# Show plot
+plt.show()

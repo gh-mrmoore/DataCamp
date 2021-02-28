@@ -1,5 +1,6 @@
-# Set the style to "whitegrid"
+# Change the color palette to "RdBu"
 sns.set_style("whitegrid")
+sns.set_palette("RdBu")
 
 # Create a count plot of survey responses
 category_order = ["Never", "Rarely", "Sometimes", 
