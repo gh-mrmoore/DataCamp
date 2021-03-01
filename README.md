@@ -27,7 +27,7 @@ This repository will contain the work that I've completed in DataCamp.
 | Joining Data with pandas | 2021-02-17|
 | Introduction to Data Visualization with Matplotlib | 2021-02-24 |
 | Introduction to Data Visualization with Seaborn | 2021-02-28 |
-| Introduction to Importing Data in Python | In Progress |
+| Introduction to Importing Data in Python | 2021-03-01 |
 | Intermediate Importing Data in Python | Pending |
 | Cleaning Data in Python | Pending |
 | Exploratory Data Analysis in Python | Pending |
