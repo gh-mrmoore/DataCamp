@@ -28,8 +28,8 @@ This repository will contain the work that I've completed in DataCamp.
 | Introduction to Data Visualization with Matplotlib | 2021-02-24 |
 | Introduction to Data Visualization with Seaborn | 2021-02-28 |
 | Introduction to Importing Data in Python | 2021-03-01 |
-| Intermediate Importing Data in Python | Pending |
-| Cleaning Data in Python | Pending |
+| Intermediate Importing Data in Python | 2021-03-03 |
+| Cleaning Data in Python | In Progress |
 | Exploratory Data Analysis in Python | Pending |
 | Analyzing Police Activity with pandas | Pending |
 | Introduction to SQL | In Progress |
