@@ -29,8 +29,8 @@ This repository will contain the work that I've completed in DataCamp.
 | Introduction to Data Visualization with Seaborn | 2021-02-28 | <a href="https://github.com/gh-mrmoore/Certificates/blob/master/DataCamp_Data_Analyst_Python/06_Intro_Seaborn_Data_Visualization.pdf">Certificate</a> |
 | Introduction to Importing Data in Python | 2021-03-01 | <a href="https://github.com/gh-mrmoore/Certificates/blob/master/DataCamp_Data_Analyst_Python/07_Intro_Python_Data_Imports.pdf">Certificate</a> |
 | Intermediate Importing Data in Python | 2021-03-03 | <a href="https://github.com/gh-mrmoore/Certificates/blob/master/DataCamp_Data_Analyst_Python/08_Intermediate_Python_Data_Imports.pdf">Certificate</a> |
-| Cleaning Data in Python | 2021-03-15 | <a href="">Certificate</a> |
-| Exploratory Data Analysis in Python | 2021-03-24 | <a href="">Certificate</a> |
+| Cleaning Data in Python | 2021-03-15 | <a href="https://github.com/gh-mrmoore/Certificates/blob/master/DataCamp_Data_Analyst_Python/09_Cleaning_Data_in_Python.pdf">Certificate</a> |
+| Exploratory Data Analysis in Python | 2021-03-24 | <a href="https://github.com/gh-mrmoore/Certificates/blob/master/DataCamp_Data_Analyst_Python/10_Python_Exploratory_Data_Analysis.pdf">Certificate</a> |
 | Analyzing Police Activity with pandas | Pending | <a href="">Certificate</a> |
 | Introduction to SQL | In Progress | <a href="">Certificate</a> |
 | Streamlined Data Ingestion with pandas | Pending | <a href="">Certificate</a> |
